@@ -56,3 +56,7 @@ app/
 ## Demo Video
 
 🎥 [Click to view demo video](assets/ListViewApp.mp4)
+
+## Author
+Created by **Chastidy Joanem**  
+GitHub: [@chazdj](https://github.com/chazdj)
